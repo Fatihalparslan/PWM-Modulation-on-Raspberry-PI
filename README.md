@@ -20,5 +20,6 @@
  GPIO19-->PWM1 35.pin
  Raspberry pi'de kullanılacak maksimum PWM frekansı 19.2 MHz'dir. 
  Projenin Videosu :
-[![vid](https://youtu.be/xHKdVIES5BU)](https://www.youtube.com/watch?v=xHKdVIES5BU)
+
  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xHKdVIES5BU/0.jpg)](https://www.youtube.com/watch?v=xHKdVIES5BU)
